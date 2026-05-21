@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFC_MAP_MASTER", "RFC_MAP_MASTER.csproj", "{6A7984A5-983A-4FEA-828C-3EFD4A935311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A7984A5-983A-4FEA-828C-3EFD4A935311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7984A5-983A-4FEA-828C-3EFD4A935311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7984A5-983A-4FEA-828C-3EFD4A935311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7984A5-983A-4FEA-828C-3EFD4A935311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D3F79B-4BF2-4E74-9E65-E9A970CD72D2}
+	EndGlobalSection
+EndGlobal

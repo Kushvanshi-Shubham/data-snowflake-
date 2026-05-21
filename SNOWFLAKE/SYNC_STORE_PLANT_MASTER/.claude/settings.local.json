@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"/c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/MSBuild.exe\" \"D:/V2_SourceCode/SNOWFLAKE/SYNC_STORE_PLANT_MASTER/SYNC_STORE_PLANT_MASTER/SYNC_STORE_PLANT_MASTER.csproj\" -t:Build -p:Configuration=Debug -nologo -v:minimal)"
+    ]
+  }
+}

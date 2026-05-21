@@ -1,0 +1,31 @@
+# Ignore everything
+*
+
+# Allow ONLY these 2 folders
+!SNOWFLAKE/
+!SNOWFLAKE/**
+
+!192.168.151.28/
+!192.168.151.28/**
+
+# Keep gitignore
+!.gitignore
+
+# .NET junk
+.vs/
+bin/
+obj/
+Debug/
+Release/
+publish/
+packages/
+.nuget/
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Logs
+*.log
+*.tmp
